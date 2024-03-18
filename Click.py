@@ -9,7 +9,7 @@ count = 0
 
 app = Tk()
 app.title("Nova clicker")
-app.geometry("800x800")
+app.geometry("300x300")
 
 
 def start(the_cli=50,the_int=.0001):
